@@ -8,7 +8,7 @@
    
    Also interested in React Native, but have a preference for Quasar (Vue 3), Ionic (Svelte and Vue) and Framework7 (Svelte, Vue, vanilla JS).
    
-   Very interested in fast apps, particularly those built with Svelte where reactivity is built-in and there's no interpreting code at runtime overhead.
+   Very interested in fast apps, particularly those built with Svelte where reactivity is built-in and there's no overhead of interpreting a lot of code at runtime.
    
    Svelte is faster than Angular, Vue and React, and while on the subject of compile ahead of time, I also like Riot.JS (use cli to compile ahead of time instead of compiling components at run time).
 
