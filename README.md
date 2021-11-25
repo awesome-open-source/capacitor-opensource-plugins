@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @capacitor-opensource-plugins
+
+   I have a neat OTA update plugin at https://hotcodepush.com.  You can get a business plan a lot cheaper than other providers, or host yourself and muddle along with free open source goodness!
+
 - 👀 I’m interested in ...
 
    hybrid mobile apps, particularly Quasar Framework, Framework7 and Ionic Framework, all running with Ionic Capacitor.
